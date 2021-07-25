@@ -2,9 +2,9 @@
 
 ****************************
 
-Kicad and EasyEda Proects
+Kicad and EasyEda Proects.
 
-Проекты Kicad и Easyeda
+Проекты Kicad и Easyeda.
 
 <img src="https://raw.githubusercontent.com/maximalisimus/Kicad_Library/main/images/Shadow-Projects-image.jpg"  height="400">
 
