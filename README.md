@@ -6,6 +6,8 @@ Kicad and EasyEda Proects
 
 Проекты Kicad и Easyeda
 
+<img src="https://raw.githubusercontent.com/maximalisimus/Kicad_Library/main/images/Shadow-Projects-image.jpg"  height="400">
+
 ## Оглавление
 
 1. [Библиотеки](#Библиотеки)
