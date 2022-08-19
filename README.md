@@ -34,7 +34,7 @@ Kicad and EasyEda Proects.
 
 ---
 
-### [Вернуться к оглавлению](#Oglavlenie)
+[К оглавлению](#Oglavlenie)
 
 ## <a name="Config">Настройки</a>
 
