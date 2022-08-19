@@ -8,6 +8,8 @@ Kicad and EasyEda Proects.
 
 <img src="https://raw.githubusercontent.com/maximalisimus/Kicad_Library/main/images/Shadow-Projects-image.jpg"  height="400">
 
+<a name="Oglavlenie"></a>
+
 ## Оглавление
 
 1. [Библиотеки](#Libs)
@@ -30,6 +32,9 @@ Kicad and EasyEda Proects.
 
 В **Kicad** можно использовать 3D модели 2 форматов: **stp** и **wrl**.
 
+---
+
+### [Вернуться к оглавлению](#Oglavlenie)
 
 ## <a name="Config">Настройки</a>
 
