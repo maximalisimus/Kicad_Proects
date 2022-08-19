@@ -10,11 +10,12 @@ Kicad and EasyEda Proects.
 
 ## Оглавление
 
-1. [Библиотеки](#Библиотеки)
-2. [Настройки](#Настройки)
+1. [Библиотеки](#Libs)
+2. [Настройки](#Config)
 3. [About](#About)
 
-[:arrow_up:Библиотеки](#Библиотеки)
+
+## <a name="Libs">Библиотеки</a>
 
 Библиотеки находятся по адресу: [Kicad-Libraries](https://github.com/maximalisimus/Kicad_Library.git)
 
@@ -29,7 +30,8 @@ Kicad and EasyEda Proects.
 
 В **Kicad** можно использовать 3D модели 2 форматов: **stp** и **wrl**.
 
-[:arrow_up:Настройки](#Настройки)
+
+## <a name="Config">Настройки</a>
 
 После запуска программы **Kicad**, откройте **меню** -> **Настройки** -> **Настройки путей** и добавте нижеуказанную строку.
 
@@ -182,6 +184,6 @@ Kicad and EasyEda Proects.
 )
 ```
 
-[:arrow_up:About](#About)
+## <a name="About">About</a>
 
 Автор проектов: [maximalisimus](https://github.com/maximalisimus).
